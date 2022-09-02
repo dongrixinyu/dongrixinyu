@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on NLP and machine learning.
-- 🌱 Python, C and C++ are main programming languages I use when coding.
+- 🌱 Python, C and C++ are main programming languages I use.
 - 📫 How to reach me: dongrixinyu.66@gmail.com
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dongrixinyu" alt="dongrixinyu" /></a> </p>
