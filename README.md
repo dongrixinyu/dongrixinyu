@@ -1,7 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on NLP and machine learning.
-- 🌱 Python, C and C++ are main programming languages I use.
-- 📫 How to reach me: dongrixinyu.66@gmail.com
+### Hi there 
+- 🔭 working on NLP、AIGC、ffmpeg.
+- 🌱 Python, C and C++ coder.
+- 📫 Email: dongrixinyu.66@gmail.com
+- 👋 掘金电子书作者：《人人都能看懂的 ChatGPT 原理课》
+- 🔭 公众号：JioNLP，分享 AI 算法、C语言。
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dongrixinyu" alt="dongrixinyu" /></a> </p>
 
