@@ -4,6 +4,7 @@
 - 📫 Email: dongrixinyu.66@gmail.com
 - 👋 掘金电子书作者：[《人人都能看懂的 ChatGPT 原理课》](https://juejin.cn/book/7225592349563289600?utm_source=course_list)
 - 🔭 公众号：JioNLP，分享 AI 算法、C语言。
+- 🌱 [多语AI](https://cn.chat.tt/)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dongrixinyu" alt="dongrixinyu" /></a> </p>
 
