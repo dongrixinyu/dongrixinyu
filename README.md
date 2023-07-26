@@ -3,6 +3,7 @@
 - 🌱 Python, C and C++ coder.
 - 📫 Email: dongrixinyu.66@gmail.com
 - 👋 掘金电子书作者：[《人人都能看懂的 ChatGPT 原理课》](https://juejin.cn/book/7225592349563289600?utm_source=course_list)
+- 🦉 知学堂课程作者：[《ChatGPT与AI革命》](https://zhixuetang.zhihu.com/ee/index/graphicDetails/1020004/3/x/x)
 - 🔭 公众号：JioNLP，分享 AI 算法、C语言。
 - 🌱 不翻墙的 ChatGPT：[多语AI](https://cn.chat.tt/)
 
