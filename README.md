@@ -4,7 +4,7 @@
 - 📫 Email: dongrixinyu.66@gmail.com
 - 😂 个人网站: https://www.jionlp.com
 - ❤️ 我参与的字节开源：[**arkitect**](https://github.com/volcengine/ai-app-lab)
-- 😄 AI科普课：[《每个人的人工智能课》](https://ke.wechess.cn/app/index.php?i=5&c=entry&m=xiangqi_lesson&do=lesson&id=282)
+<!-- 😄 AI科普课：[《每个人的人工智能课》](https://ke.wechess.cn/app/index.php?i=5&c=entry&m=xiangqi_lesson&do=lesson&id=282) -->
 - 👋 掘金电子书作者：[《人人都能看懂的 ChatGPT 原理课》](https://juejin.cn/book/7225592349563289600?utm_source=course_list)
 <!-- 🦉 知学堂课程作者：[《ChatGPT与AI革命》](https://zhixuetang.zhihu.com/ee/index/graphicDetails/1020004/3/x/x) -->
 - 🔭 公众号：JioNLP，分享 AI 算法、C语言。
