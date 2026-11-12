@@ -1,5 +1,5 @@
 ### 我的简介
-- 🔭 working on NLP、AIGC、ffmpeg.
+- 🔭 working on NLP、AIGC、psychology、ffmpeg.
 - 🌱 Python, C and C++ coder.
 - 📫 Email: dongrixinyu.66@gmail.com
 
